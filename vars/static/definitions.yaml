@@ -1,6 +1,6 @@
-eksexample_region: eu-central-1
-eksexample_worker_desiredcount: 2
-eksexample_worker_maxcount: 10
+eksexample_region: us-west-2
+eksexample_worker_desiredcount: 3
+eksexample_worker_maxcount: 12
 eksexample_worker_mincount: 2
 eksexample_worker_instancetype: t3a.medium
 eksexample_bastion_instancetype: t3a.small
