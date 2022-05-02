@@ -1,8 +1,4 @@
-#############################################################
-## NOT FOR PRODUCTION USE.                                 ##
-## THE CONTENT OF THIS FILE IS FOR LEARNING PURPOSES ONLY  ##
-## created by David Surey, Amazon Web Services, 2020       ##
-#############################################################
+
 
 - name: Setup and Customize Amazon EKS
   hosts: localhost
